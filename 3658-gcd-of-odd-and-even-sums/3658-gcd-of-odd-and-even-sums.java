@@ -8,7 +8,8 @@ class Solution {
         return gcd(se,se-n);
     }
     public int gcdOfOddEvenSums(int n) {
-        return sol1(n);
+        // return sol1(n);
+        return n;
     }
 }
 /***
