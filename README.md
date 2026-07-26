@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
