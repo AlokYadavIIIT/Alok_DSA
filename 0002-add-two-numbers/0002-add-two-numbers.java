@@ -13,9 +13,7 @@ class Solution {
         ListNode ans = new ListNode(0);
         ListNode curr = ans;
         int carry =0;
-
         while(l1!=null || l2!=null || carry !=0){
-
             int x = (l1 != null )?l1.val:0;
             int y = (l2 != null )?l2.val:0;
 
