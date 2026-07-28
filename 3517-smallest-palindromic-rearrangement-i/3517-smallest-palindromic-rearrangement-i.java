@@ -1,10 +1,7 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        // if(s.length==1){
-        //     return s;
-        // }
+        
         int[] freq = new int[26];
-
         for(char ch:s.toCharArray()){
             freq[ch-'a']++;
         }
@@ -20,7 +17,6 @@ class Solution {
                 left.append((char)(i+'a'));
             }
         }
-
         String right = new StringBuilder(left).reverse().toString();
         return left.toString()+middle+right;
     }
