@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Hash Table
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
