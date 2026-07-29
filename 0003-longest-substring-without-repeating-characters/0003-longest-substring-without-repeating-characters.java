@@ -36,8 +36,6 @@ class Solution {
                 low++;
                 k=high-low+1;
             }
-
-           
             max = Math.max(max,high-low+1);
         }
         return max;
