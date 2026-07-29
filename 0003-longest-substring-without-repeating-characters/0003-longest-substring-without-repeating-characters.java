@@ -19,8 +19,8 @@ class Solution {
         // return lon;
 
         int n=s.length();
-        int low=0;
-        int max=0;
+        int low=0,max=0;
+        
         Map<Character,Integer>freq=new HashMap<>();
 
         for(int high=0;high<n;high++){
