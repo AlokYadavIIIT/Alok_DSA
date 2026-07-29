@@ -5,6 +5,7 @@ class Solution {
         Map<Integer,Integer>freq=new HashMap<>();
         for(int right=0;right<n;right++){
             freq.put(fruits[right],freq.getOrDefault(fruits[right],0)+1);
+            
             //shrinking the window if more than 2 types of fruit is in basket;
             while(freq.size()>2){
                 int leftfruit=fruits[left];
