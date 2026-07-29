@@ -37,8 +37,8 @@ class Solution {
                 k=high-low+1;
             }
 
-            int len = high-low+1;
-            max = Math.max(max,len);
+           
+            max = Math.max(max,high-low+1);
         }
         return max;
     }
