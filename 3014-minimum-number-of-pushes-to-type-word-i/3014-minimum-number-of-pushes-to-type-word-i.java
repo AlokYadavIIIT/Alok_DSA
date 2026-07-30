@@ -13,18 +13,5 @@ class Solution {
         else{
             return 8+2*8+3*8+4*(n-24);
         }
-        // Map<Character,Integer>freq = new HashMap<>();
-
-        // for(int i=0;i<n;i++){
-        //     char c = s.charAt(i);
-        //     freq.put(c,freq.getOrDefault(c,0)+1);
-        // }
-        // find double=0,triple=0,single=0;
-        // if(freq.size()){
-        //     return n;
-        // }
-        // else if(){
-            
-        // }
     }
 }
