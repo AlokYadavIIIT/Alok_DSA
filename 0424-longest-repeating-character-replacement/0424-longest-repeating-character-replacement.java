@@ -22,8 +22,7 @@ class Solution {
                 len=high-low+1;
                 diff=len-maxcnt;
             }
-            len=high-low+1;
-            res=Math.max(res,len);
+            res=Math.max(res,high-low+1);
         }
 
         return res;
