@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
