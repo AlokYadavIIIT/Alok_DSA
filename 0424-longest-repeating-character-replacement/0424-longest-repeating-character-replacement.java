@@ -32,7 +32,7 @@ class Solution {
         int res=0;
 
         for(int high=0;high<s.length();high++){
-            maxfreq=Math.max(maxfreq,++freq[s.charAt(high)-'A']);
+            maxfreq=Math.max(maxfreq,++freq[s.charAt(high)-'A']); //for A = ++freq[0]
 
             while((high-low+1)-maxfreq > k){
                 freq[s.charAt(low)-'A']--;
