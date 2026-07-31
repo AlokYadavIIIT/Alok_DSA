@@ -24,7 +24,6 @@ class Solution {
             }
             res=Math.max(res,high-low+1);
         }
-
         return res;
     }
 }
