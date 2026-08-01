@@ -20,7 +20,6 @@ class Solution {
             char c = t.charAt(i);
             needed[c]++;
         }
-
         int low=0,high=0;
         for(high=0;high<n;high++){
             char c = s.charAt(high);
