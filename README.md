@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
