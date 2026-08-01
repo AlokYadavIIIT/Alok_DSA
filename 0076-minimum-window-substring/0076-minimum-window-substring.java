@@ -1,5 +1,4 @@
 class Solution {
-
     public boolean correct(int[] have,int[] needed){
         for(int i=0;i<needed.length;i++){
             if(have[i]<needed[i]){
