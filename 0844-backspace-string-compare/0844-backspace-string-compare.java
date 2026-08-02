@@ -1,5 +1,4 @@
 class Solution {
-
     public boolean backspaceCompare(String s, String t) {
         Stack<Character> st = new Stack<>();
         Stack<Character> tt = new Stack<>();
@@ -20,7 +19,6 @@ class Solution {
             }
         }
 
-        return st.equals(tt);
-        
+        return st.equals(tt);  
     }
 }
