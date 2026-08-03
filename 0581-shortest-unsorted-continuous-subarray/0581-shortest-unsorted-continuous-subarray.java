@@ -15,6 +15,7 @@ class Solution {
         // }
         // return right-left+1;
 
+
         int n=nums.length;
         int start=-1 , end=-2;//handles already sorted cases
         int max=nums[0];
@@ -26,7 +27,6 @@ class Solution {
                 end=i;
             }
         }
-
         for(int i=n-2;i>=0;i--){
             min=Math.min(min,nums[i]);
             if(nums[i]>min){
