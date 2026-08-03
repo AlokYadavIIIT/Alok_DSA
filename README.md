@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0088-merge-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -133,9 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
