@@ -15,7 +15,6 @@ class Solution {
         while(right>=0 && nums[right]==sorted[right]){
             right--;
         }
-
         return right-left+1;
     }
 }
