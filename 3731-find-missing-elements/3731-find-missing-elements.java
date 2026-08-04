@@ -9,9 +9,8 @@ class Solution {
         for(int i=0;i<n-1;i++){
             int curr = nums[i];
             int next = nums[i+1];
-            for(int j=curr+1;j<next;j++){
-                missing.add(j);
-            }
+            for(int j=curr+1;j<next;j++)
+                missing.add(j);   
         }
         return missing;
     }
