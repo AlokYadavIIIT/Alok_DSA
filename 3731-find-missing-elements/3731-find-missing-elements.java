@@ -5,7 +5,6 @@ class Solution {
         if(nums==null || n == 0){
             return missing;
         }
-
         Arrays.sort(nums);
         for(int i=0;i<n-1;i++){
             int curr = nums[i];
@@ -14,7 +13,6 @@ class Solution {
                 missing.add(j);
             }
         }
-
         return missing;
     }
 }
