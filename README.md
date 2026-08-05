@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
