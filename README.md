@@ -163,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0142-linked-list-cycle-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
