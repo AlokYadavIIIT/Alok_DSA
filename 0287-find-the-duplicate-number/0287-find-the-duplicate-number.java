@@ -3,12 +3,12 @@ class Solution {
         int slow =0;
         int fast =0;
         while(true){
-            slow=nums[slow];
-            fast=nums[fast];
+            slow=nums[slow];// 1 step forward
+            fast=nums[fast];// 2 step forward
             fast=nums[fast];
             if(slow==fast){
                 slow=0;
-                while(slow!=fast){
+                while(slow!=fast){// finding the starting point of circle
                     slow=nums[slow];
                     fast=nums[fast];
                 }
