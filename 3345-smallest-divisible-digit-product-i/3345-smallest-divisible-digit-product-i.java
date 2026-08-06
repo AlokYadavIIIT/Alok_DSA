@@ -8,14 +8,11 @@ class Solution {
         return prod;
     }
     public int smallestNumber(int n, int t) {
-        int ans;
         int prod;
-
         while(true){
             prod=findprod(n);
             if(prod%t==0){
-                ans=n;
-                return ans;
+                return n;
             }
             else{
                 n++;
