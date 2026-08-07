@@ -12,7 +12,8 @@ class Solution {
             
             maxending=Math.max(opt1,Math.max(opt2,opt3));
             minending=Math.min(opt1,Math.min(opt2,opt3));
-            ans = Math.max(ans,Math.max(maxending,minending));
+            // ans = Math.max(ans,Math.max(maxending,minending));
+            ans=Math.max(ans,maxending);
         }
         return ans;
     }
