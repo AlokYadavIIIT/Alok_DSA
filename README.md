@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
