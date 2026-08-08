@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Game Theory
 |  |
 | ------- |
