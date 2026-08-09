@@ -11,7 +11,6 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
             suffix[i] = suffix[i + 1] + piles[i];
         }
-
         return solve(0, 1);
     }
     public int solve(int i, int M) {
