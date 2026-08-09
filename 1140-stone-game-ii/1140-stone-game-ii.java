@@ -1,7 +1,6 @@
 class Solution {
     int[][] dp;
     int[] suffix;
-
     public int stoneGameII(int[] piles) {
         int n = piles.length;
 
@@ -15,7 +14,6 @@ class Solution {
 
         return solve(0, 1);
     }
-
     public int solve(int i, int M) {
 
         // All piles are taken
