@@ -23,13 +23,11 @@ class Solution {
             res2=Math.min(res2,min2);
         }
         max2=totalsum-res2;
-
         if(res1<0){// if it -ve it means max2 ==0;
             return res1;
         }else{
             int res = Math.max(res1,max2);
             return res; 
-        }
-        
+        }     
     }
 }
