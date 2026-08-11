@@ -13,19 +13,17 @@ class Solution {
             }
             
         }
+        
         //store all numbers
         HashSet<Integer> set = new HashSet<>();
-
         for(int num:nums){
             set.add(num);
         }
-
         //find smallest missing integer >=sum
         target = sum;
         while(set.contains(target)){
             target++;
         }
-
         return target;
 
 
