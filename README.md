@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3731-find-missing-elements) |
