@@ -13,14 +13,12 @@ class Solution {
                 o++;
             }
             int diff = z-o;
-            // int ques = f.getOrDefault(diff,0);
             if(f.containsKey(diff)){
                 int firstIndex = f.get(diff);
                 res=Math.max(res,i-firstIndex);
             }else{
                 f.put(diff,i);
             }
-            
         }
         return res;
     }
