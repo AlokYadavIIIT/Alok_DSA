@@ -1,8 +1,7 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
         int n = nums.length;
-        int sum=0;//prefix sum of a[0];
-        
+        int sum=0;//prefix sum of a[0];    
         int res=0;
         HashMap<Integer,Integer> f = new HashMap<>();
         f.put(0,1);
