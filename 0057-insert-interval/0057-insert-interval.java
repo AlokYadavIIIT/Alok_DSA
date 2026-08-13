@@ -1,8 +1,8 @@
 class Solution {
     public int[][] merge(int[][] intervals){
         int n = intervals.length;
-
         List<int[]>res = new ArrayList<>();
+        
         int start=intervals[0][0];
         int end = intervals[0][1];
 
@@ -38,9 +38,9 @@ class Solution {
             res.add(new int[]{s,e});  
         }
         //Insertion at last position
-        if(!inserted)
+        if(!inserted){
             res.add(new int[]{newInterval[0],newInterval[1]});
-
+        }
         return merge(res.toArray(new int[res.size()][]));
     }
 }
