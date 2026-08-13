@@ -52,7 +52,6 @@ int best;
             tree[node] = new Node(ch, ch, 1, 1, 1, 1);
             return;
         }
-
         int mid = (start + end) / 2;
 
         if (index <= mid) {
