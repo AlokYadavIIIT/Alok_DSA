@@ -10,9 +10,7 @@ int best;
             this.best = best;
         }
     }
-
     private Node[] tree;
-
     private Node merge(Node left, Node right) {
         int length = left.length + right.length;
         int prefix = left.prefix;
@@ -35,7 +33,6 @@ int best;
 
         return new Node(left.leftChar, right.rightChar, length, prefix, suffix, best);
     }
-
     private void build( int node, int start, int end, String s) {
         if (start == end) {
             tree[node] = new Node( s.charAt(start), s.charAt(start), 1, 1, 1, 1);
@@ -50,7 +47,6 @@ int best;
         tree[node] = merge(tree[node * 2],tree[node * 2 + 1]
         );
     }
-
     private void update( int node, int start, int end, int index, char ch) {
         if (start == end) {
             tree[node] = new Node(ch, ch, 1, 1, 1, 1);
@@ -70,7 +66,6 @@ int best;
             tree[node * 2 + 1]
         );
     }
-
     public int[] longestRepeating(String s, String queryCharacters, int[] queryIndices) {
         int n = s.length();
         tree = new Node[4 * n];
