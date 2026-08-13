@@ -4,10 +4,8 @@ class Solution {
         //Sort intervals according to starting points
         Arrays.sort(intervals,(x,y)->Integer.compare(x[0],y[0]));
         List<int[]>res =new ArrayList<>();
-
         int start = intervals[0][0];
         int end = intervals[0][1];
-
         for(int i=1;i<n;i++){
             int s = intervals[i][0];
             int e = intervals[i][1];
