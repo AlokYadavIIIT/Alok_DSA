@@ -2,8 +2,7 @@ class Solution {
     public int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
         //Start thinking according to 1D-array merge;
         int n=firstList.length;
-        int m=secondList.length;
-        
+        int m=secondList.length; 
         List<int[]>res = new ArrayList<>();
         int i=0;
         int j=0;
