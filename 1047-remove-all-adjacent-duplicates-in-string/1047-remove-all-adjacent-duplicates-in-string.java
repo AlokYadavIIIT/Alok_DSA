@@ -14,14 +14,23 @@ class Solution {
                 st.push(c);
             }
         }
-        String res="";
+        StringBuilder res = new StringBuilder();
         while(!st.isEmpty()){
-            res+=st.pop();
+            res.append(st.pop());
         }
-        String reverse="";
-        for(int i=res.length()-1;i>=0;i--){
-            reverse+=res.charAt(i);
-        }
-        return reverse;
+
+        return res.reverse().toString();
+
+
+
+        // String res="";
+        // while(!st.isEmpty()){
+        //     res+=st.pop();
+        // }
+        // String reverse="";
+        // for(int i=res.length()-1;i>=0;i--){
+        //     reverse+=res.charAt(i);
+        // }
+        // return reverse;
     }
 }
