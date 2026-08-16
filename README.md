@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -275,11 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
@@ -292,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
