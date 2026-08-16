@@ -26,11 +26,14 @@ class Solution {
                 }
             }
         }
-        if(!st.isEmpty()){
-            return false;
-        }
-        else{
-            return true;
-        }
+
+        return st.isEmpty();
+        
+        // if(!st.isEmpty()){
+        //     return false;
+        // }
+        // else{
+        //     return true;
+        // }
     }
 }
