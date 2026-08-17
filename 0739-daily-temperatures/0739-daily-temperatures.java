@@ -6,8 +6,7 @@ class Solution {
         int count=0;
         Stack<Integer> st = new Stack<>();
         st.push(n-1);
-        for(int i=n-2;i>=0;i--){
-            
+        for(int i=n-2;i>=0;i--){ 
             while(!st.isEmpty() && temperatures[st.peek()]<=temperatures[i]){
                 st.pop();
             }
