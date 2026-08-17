@@ -1,3 +1,4 @@
+//METHOD-1: 
 // class Solution {
 //     public int[] nextGreaterElements(int[] nums) {
 //         int n = nums.length;
@@ -28,8 +29,6 @@
 
 
 //METHOD-2 : FOR CIRCULAR ARRAY
-
-
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n=nums.length;
