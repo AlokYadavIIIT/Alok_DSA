@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
