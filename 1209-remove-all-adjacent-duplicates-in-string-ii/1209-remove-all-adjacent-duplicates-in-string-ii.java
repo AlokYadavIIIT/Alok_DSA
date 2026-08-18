@@ -1,5 +1,4 @@
 class Solution {
-
     class Pair{
         char first;
         int second;
