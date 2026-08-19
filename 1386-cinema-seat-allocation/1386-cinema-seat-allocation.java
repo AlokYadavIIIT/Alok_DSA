@@ -1,6 +1,5 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-
         HashMap<Integer, HashSet<Integer>> map = new HashMap<>();
 
         for (int[] seat : reservedSeats) {
