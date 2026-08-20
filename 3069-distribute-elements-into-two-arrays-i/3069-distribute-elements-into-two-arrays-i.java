@@ -29,6 +29,7 @@
 
 class Solution {
     public int[] resultArray(int[] nums) {
+
         int n = nums.length;
         
         int[] arr1 = new int[n];
@@ -36,6 +37,7 @@ class Solution {
 
         int size1 = 0;
         int size2 = 0;
+        
         arr1[size1++] = nums[0];
         arr2[size2++] = nums[1];
 
