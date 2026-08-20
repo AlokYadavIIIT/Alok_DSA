@@ -2,7 +2,6 @@ class Solution {
     public int[] resultArray(int[] nums) {
         int n = nums.length;
         
-        ArrayList<Integer> result=new ArrayList<>();
         ArrayList<Integer> arr1=new ArrayList<>();
         ArrayList<Integer> arr2=new ArrayList<>();
 
