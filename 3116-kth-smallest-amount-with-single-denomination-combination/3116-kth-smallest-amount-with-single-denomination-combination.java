@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {
     public long findKthSmallest(int[] coins, int k) {
         Arrays.sort(coins);
@@ -81,7 +80,6 @@ class Solution {
 
         return low;
     }
-
     private long gcd(long a, long b) {
         while (b != 0) {
             long temp = a % b;
