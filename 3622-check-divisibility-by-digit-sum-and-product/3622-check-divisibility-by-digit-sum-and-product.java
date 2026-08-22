@@ -9,7 +9,6 @@ class Solution {
             prod*=a;
             n/=10;
         }
-
         if(original%(sum+prod)==0){
             return true;
         }
