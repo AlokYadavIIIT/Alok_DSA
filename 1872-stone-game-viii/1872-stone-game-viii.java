@@ -13,6 +13,7 @@ class Solution {
         // the game ends immediately.
         int best = prefix[n - 1];
 
+
         // Try every earlier valid prefix
         for (int i = n - 2; i >= 1; i--) {
             best = Math.max(best, prefix[i] - best);
