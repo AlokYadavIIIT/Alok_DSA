@@ -1,7 +1,10 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
+
         int n = text.length();
+
         String s ="balloon";
+
         HashMap<Character,Integer> need = new HashMap<>();
 
         for(char ch:s.toCharArray()){
@@ -15,6 +18,7 @@ class Solution {
         }
 
         int maxuse=Integer.MAX_VALUE;
+        
         for(char ch:s.toCharArray()){
             int d = have.getOrDefault(ch,0);
             int r = need.get(ch);
