@@ -1,5 +1,6 @@
 class Solution {
     public int longestPalindrome(String s) {
+        
         int n = s.length();
 
         HashMap<Character,Integer> have = new HashMap<>();
@@ -12,6 +13,7 @@ class Solution {
 
         int maxlength=0;
         boolean hasOdd = false;
+
         for(int i=0;i<have.size();i++){
             if(value.get(i)%2 ==0){
                 maxlength = maxlength+value.get(i);
@@ -24,6 +26,7 @@ class Solution {
         if(hasOdd){
             maxlength++;
         }
+
         return maxlength;
     }
 }
