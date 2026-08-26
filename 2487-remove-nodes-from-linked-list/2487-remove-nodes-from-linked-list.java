@@ -15,6 +15,7 @@ class Solution {
         
         ListNode curr = head;
 
+//Put all nodes into the stack
         while(curr!=null){
             stack.push(curr);
             curr=curr.next;
