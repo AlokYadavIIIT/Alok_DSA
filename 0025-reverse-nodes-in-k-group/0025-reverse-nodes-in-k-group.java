@@ -21,7 +21,9 @@ class Solution {
             curr=next;
         }
     }
+
     public ListNode reverseKGroup(ListNode head, int k) {
+
         if(head == null)
             return head;
 
@@ -34,8 +36,10 @@ class Solution {
             right=left;
 
             for(int i=0;i<k-1;i++){
+                
                 if(right==null)
                     break;
+
                 right=right.next;
             }
 
@@ -47,6 +51,7 @@ class Solution {
                 if(prevleft!=null){
                     prevleft.next=right;//1st group ka start next ke end se;
                 }
+
                 prevleft = left;
 
                 if(res == null){
