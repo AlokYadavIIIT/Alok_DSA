@@ -34,6 +34,7 @@ class Solution {
         ListNode prevleft = null;
 
         while(true){
+
             right = left;
             for(int i=0;i<(2-1);i++){//pair == 2
                 if(right==null){
@@ -41,24 +42,34 @@ class Solution {
                 }
                 right=right.next;
             }
+
             if(right!=null){
+
                 ListNode nextleft = right.next;
+
                 reverse(left,2);
+
                 if(prevleft!=null){
                     prevleft.next = right;
                 }
+
                 prevleft = left;
+
                 if(res==null){
                     res = right;
                 }
                 left = nextleft;
             }
+
             else{
+
                 if(prevleft!=null)
                     prevleft.next=left;
+                    
                 if(res==null)
                     res = left;
                 break;
+
             }
             
         }
