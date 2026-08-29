@@ -1,7 +1,10 @@
 class Solution {
     public int[] lexicographicallySmallestArray(int[] A, int limit) {
+
         int[] srt = A.clone();
+
         Arrays.sort(srt);
+        
         List<List<Integer>> grps = new ArrayList<>();
         Map<Integer, Integer> map = new HashMap<>();
         int id = -1;
