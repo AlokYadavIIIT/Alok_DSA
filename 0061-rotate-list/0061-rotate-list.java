@@ -27,7 +27,7 @@ class Solution {
         if(rot==0){
             return head;
         }
-        
+
         //make circular
         last.next=head;
 
@@ -41,7 +41,6 @@ class Solution {
         ListNode nex=newtail.next;
         newtail.next=null;
         
-
         return nex;
     }
 }
