@@ -45,9 +45,9 @@ class Solution {
             i++;
         }
         //fewer than 2 critical points
-        if(old==0|| old==latest)
+        if(old==0|| old==latest){
             return new int[]{-1,-1};
-        
+        }
         return new int[]{min,max};
     }
 }
