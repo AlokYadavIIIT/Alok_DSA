@@ -4,6 +4,7 @@ class Solution {
         int n=arr.length;
 
         int low=0,high=n-1;
+        
         int res=-1;
 
         while(low<=high){
