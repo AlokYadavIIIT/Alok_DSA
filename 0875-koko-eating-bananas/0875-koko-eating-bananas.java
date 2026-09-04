@@ -4,13 +4,9 @@ class Solution {
 
         long req=0;
         for(int i=0;i<n;i++){
-            int k=piles[i]/guess;
-            if(piles[i]%guess==0){
-                req+=k;
-            }
-            else{
-                req=req+k+1;
-            }
+            req=req+piles[i]/guess;
+            if(piles[i]%guess!=0)
+                req++;
         }
 
         return req;
