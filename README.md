@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
