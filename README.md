@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1406-stone-game-iii) |
