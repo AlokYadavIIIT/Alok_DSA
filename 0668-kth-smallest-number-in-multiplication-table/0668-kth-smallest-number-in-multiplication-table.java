@@ -5,9 +5,11 @@ class Solution {
         int row=m;
         int col=1;
         int ans=0;
+
         while(row>=1 && col<=n){
 
             int a=row*col;
+            
             if(a>k){
                 row--;
             }else{
@@ -16,6 +18,7 @@ class Solution {
             }
         }
         return ans;
+
     }
     public int findKthNumber(int m, int n, int k) {
         
@@ -23,6 +26,7 @@ class Solution {
         int res=-1;
 
         while(low<=high){
+
             int guess=low+(high-low)/2;
 
             int numbers=find(m,n,guess);
@@ -33,6 +37,7 @@ class Solution {
                 res=guess;
                 high=guess-1;
             }
+
         }
 
         return res;
