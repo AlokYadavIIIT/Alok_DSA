@@ -1,5 +1,7 @@
 class Solution {
+
     public List<String> maxNumOfSubstrings(String s) {
+        
         int[] count = new int[26];
         int[] first = new int[26];
         int[] last = new int[26];
