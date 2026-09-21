@@ -38,12 +38,12 @@ class Solution {
         //create answer
         List<String> ans = new ArrayList<>(k);
 
-        while(!pq.isEmpty()){
-            ans.add(pq.poll().second);
-        }
-        // for(int i=k-1;i>=0;i--){
+        // while(!pq.isEmpty()){
         //     ans.add(pq.poll().second);
         // }
+        for(int i=k-1;i>=0;i--){
+            ans.add(pq.poll().second);
+        }
         Collections.reverse(ans);
         return ans;
     }
