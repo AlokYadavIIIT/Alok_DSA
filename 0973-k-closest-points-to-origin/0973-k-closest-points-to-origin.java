@@ -34,6 +34,7 @@ class Solution {
 
         // To keep track of which point of a particular distance
         // has already been taken
+
         HashMap<Integer, Integer> indexMap = new HashMap<>();
 
         for (int i = 0; i < k; i++) {
