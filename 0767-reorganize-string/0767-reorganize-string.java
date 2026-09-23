@@ -1,4 +1,5 @@
 class Solution {
+
     class pair{
         int first;
         char second;
@@ -26,10 +27,13 @@ class Solution {
         }
 
         String res = "";
-        int seat = 0;
+        int seat = 0;//position in res string;
+
         while(!pq.isEmpty()){
+
             pair p = pq.poll();
             if(seat == 0 || res.charAt(seat-1)!=p.second){
+                
                 res+=(p.second);
                 seat++;
                 p.first--;
@@ -38,6 +42,7 @@ class Solution {
                 }
             }
             else{
+
                 if(pq.isEmpty()){//it states like further elements as "..aaa"same;
                     return "";
                 }
