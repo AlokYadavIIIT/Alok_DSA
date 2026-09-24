@@ -8,6 +8,7 @@ class Solution {
             this.second=s;
         }
     }
+    
     public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
         
         int n = profits.length;
@@ -45,5 +46,6 @@ class Solution {
         }
 
         return w;
+
     }
 }
