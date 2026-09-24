@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0692-top-k-frequent-words) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0767-reorganize-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1386-cinema-seat-allocation) |
