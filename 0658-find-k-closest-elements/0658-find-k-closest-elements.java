@@ -1,4 +1,5 @@
 class Solution {
+
     class pair{
         int first;//closeness;
         int second;//no.corresponding to closeness;
@@ -8,6 +9,7 @@ class Solution {
             second=s;
         }
     }
+
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
         
         int n = arr.length;
@@ -30,6 +32,7 @@ class Solution {
 
 
         ArrayList<Integer> ans = new ArrayList<>();
+
         for(int i=0;i<k;i++){
             int a = pq.peek().second;
             pq.poll();
@@ -37,7 +40,7 @@ class Solution {
         }
         
         Collections.sort(ans);
-        // Collections.reverse(ans);//we can't return directly bcz it return void;
+        
         return ans;
 
     }
