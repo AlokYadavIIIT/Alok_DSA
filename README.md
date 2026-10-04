@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
