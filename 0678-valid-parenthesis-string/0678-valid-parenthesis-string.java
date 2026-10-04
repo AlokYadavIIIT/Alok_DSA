@@ -27,5 +27,6 @@ class Solution {
         }
 
         return minOpen == 0;
+        
     }
 }
