@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0344-reverse-string) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0152-maximum-product-subarray) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
