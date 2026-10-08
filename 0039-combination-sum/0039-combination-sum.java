@@ -10,6 +10,7 @@ class Solution {
         }
 
         find(a,n,i+1,diary,sum,target,res);//nhi lena h(choice 1)
+        
         if(a[i]+sum<=target){//choice 2
             diary.add(a[i]);
             sum +=a[i]; 
