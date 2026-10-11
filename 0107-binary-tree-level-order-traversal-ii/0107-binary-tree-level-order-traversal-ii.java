@@ -23,13 +23,16 @@ class Solution {
         }
 
         while(!q.isEmpty()){
+
             int lvlsize = q.size();
             List<Integer> temp = new ArrayList<>(lvlsize);
 
             while(lvlsize-->0){
+
                 TreeNode t = q.poll();
 
                 temp.add(t.val);
+
                 if(t.left!=null){
                     q.offer(t.left);
                 }
@@ -38,6 +41,7 @@ class Solution {
                     q.offer(t.right);
                 }
             }
+            
             res.add(temp);
         }
 
