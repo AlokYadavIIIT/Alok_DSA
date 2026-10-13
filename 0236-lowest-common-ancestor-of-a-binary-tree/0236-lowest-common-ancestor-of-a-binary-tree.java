@@ -8,7 +8,9 @@
  * }
  */
 class Solution {
+
     TreeNode ans = null;
+    
     public int find(TreeNode root,TreeNode p , TreeNode q){
 
         if(root==null){
@@ -30,6 +32,7 @@ class Solution {
         return total;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+
         find(root,p,q);
         return ans;
     }
