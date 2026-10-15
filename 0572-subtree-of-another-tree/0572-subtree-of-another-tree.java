@@ -31,6 +31,7 @@ class Solution {
 
         return r1 & r2;
     }
+
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         
         if(root==null){
@@ -42,7 +43,5 @@ class Solution {
         }
 
         return isSubtree(root.left,subRoot)||isSubtree(root.right,subRoot);
-
-
     }
 }
