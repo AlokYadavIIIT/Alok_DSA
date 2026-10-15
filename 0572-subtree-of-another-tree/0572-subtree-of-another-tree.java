@@ -29,11 +29,7 @@ class Solution {
         boolean r1 = isTrue(root.left,subRoot.left);
         boolean r2 = isTrue(root.right,subRoot.right);
 
-        if(r1==true && r2==true){
-            return true;
-        }
-
-        return false;
+        return r1 & r2;
     }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         
