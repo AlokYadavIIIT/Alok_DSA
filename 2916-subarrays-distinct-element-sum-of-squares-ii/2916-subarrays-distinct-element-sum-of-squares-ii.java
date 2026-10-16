@@ -67,5 +67,6 @@ class Solution {
             seen.put(a, i);
         }
         return (int) res;
+        
     }
 }
