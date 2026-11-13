@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -580,10 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Nim Game
 |  |
 | ------- |
@@ -603,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/AlokYadavIIIT/Alok_DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
